@@ -14,7 +14,8 @@ public class ListInterface {
 		nums.add(3,3);
 		
 		/*
-		 * for (int i = 0; i<nums.size();i++) { System.out.println(nums.get(i)); }
+		 * for (int i = 0; i<nums.size();i++) {
+		 *  System.out.println(nums.get(i)); }
 		 */
 		
 		for (Object object : nums) {
