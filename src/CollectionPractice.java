@@ -15,7 +15,7 @@ public class CollectionPractice {
 		nums.add(3);
 		nums.add(4);
 		
-//		System.out.println(nums);
+//		System.out.println(nums);//
 		
 		Iterator it= nums.iterator();
 		  
